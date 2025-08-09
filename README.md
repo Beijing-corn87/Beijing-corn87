@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Bejing-corn87
 
-<!--
-**Beijing-corn87/Beijing-corn87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a backend developer specialising in **Go** and **C++**, with a bit of frontend work in **HTML**, **CSS**, and **JavaScript**.  
+Outside of coding, I enjoy **electrical engineering**, working with **Raspberry Pis** and **Arduinos**.  
+Currently learning **CSS** and **JavaScript** to sharpen my frontend skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Backend:** Go, C++
+- **Frontend:** HTML, CSS, JavaScript (learning)
+- **Hardware & Electronics:** Raspberry Pi, Arduino
+
+---
+
+## 📂 Featured Projects
+> *Coming soon – highlight some of your favourite repos here!*
+
+---
+
+## 📊 GitHub Stats
+![Bejing-corn87's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bejing-corn87&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bejing-corn87&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bejing-corn87&theme=default)
+
+---
+
+## 💡 Favourite Quote
+> *"Anything that can be written in Javascript, will eventually be written in Javascript"*
