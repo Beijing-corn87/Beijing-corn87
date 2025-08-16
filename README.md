@@ -9,7 +9,7 @@ Currently learning **CSS** and **JavaScript** to sharpen my frontend skills.
 
 ## 🛠 Skills
 - **Backend:** Go, C++
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript (learning)
 - **Hardware & Electronics:** Raspberry Pi, Arduino
 
 ---
